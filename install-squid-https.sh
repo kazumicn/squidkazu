@@ -1,9 +1,9 @@
 #!/bin/sh
 
-PROXY_USER=user
-PROXY_PASS=password
-PROXY_PORT=3128
-PROXY_HTTPS_PORT=3129
+PROXY_USER=kazu
+PROXY_PASS=2017
+PROXY_PORT=80
+PROXY_HTTPS_PORT=8080
 
 # Clear the repository index caches
 yum clean all
